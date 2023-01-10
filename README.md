@@ -8,3 +8,13 @@
   - Data fetching no React
   - Excelente alternativa ao useEffect
   - Fácil tratamento de errors
+
+## [Styled-Components](https://www.notion.so/Styled-components-polished-props-2d7ef2c48eda404cb6c9640ab2f1cf12)
+  - CSS in JS. Opção mais utilizada
+  - Para lidar com componentes estilizados dinâmicos
+  - Estilos globais de forma fácil. Gerenciamento de temas
+
+  ## [React Hook Form + Zod](https://www.notion.so/REACT-HOOK-FORM-ffc7a7489ab646c891d7db50235b7655)
+  - Uncontrolled Components
+  - Ótimo combo para lidar com formulários no React
+  - Zod possui uma ótima integração com TS
